@@ -1,19 +1,24 @@
 # keji-autoxgp
 使用前请安装Edge浏览器、PYTHON、selenium
+
 1.
 打开cmd
 输入pip install -U selenium
 慢的朋友请开魔法
+
 2.
 请下载你的浏览器驱动(建议Edge)
 再将驱动复制到浏览器的文件子目录Application
 最后将此驱动复制到python的目录和子目录Scripts
+
 3.
 CD到此文件终端
 输入指令:pip install -r requirements.txt
+
 4.
-接着启动AutoXGP.py文件
-5.
+启动AutoXGP.py文件
+
+注意事项：
 每天最多6张，建议5张，吞钱了自己的事别找我。
 邮箱自己准备。
 
